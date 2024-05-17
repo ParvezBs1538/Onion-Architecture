@@ -14,3 +14,4 @@ namespace OA.DATA
         public string IPAddress { get; set;}
     }
 }
+
